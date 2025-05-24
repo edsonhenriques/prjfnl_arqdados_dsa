@@ -1,5 +1,5 @@
 # Projeto Final da Pós Graduação de Arquitetura de Dados
-Espacço reservado para documentação do projeto final da Pós Gradução da Arquitetura de Dados da Data Science Academy. O projeto descreve cenários e problemas de negócios, informações sobre os dados, infraestrutura e tecnologias utilizadas, 
+Espaço reservado para documentação do projeto final da Pós Gradução da Arquitetura de Dados da Data Science Academy. O projeto descreve cenários e problemas de negócios, informações sobre os dados, infraestrutura e tecnologias utilizadas, 
 
 
 ## Cenário de negócio:
