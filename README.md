@@ -1,4 +1,4 @@
-# Projeto Final da Pós Graduação de Arquitetura de Dados - DSA
+# Projeto Final da Pós Graduação de Arquitetura de Dados
 Documentação sobre o projeto final de arquitetura de dados que engloba cenários de negócios, problemas de negócios, informações sobre os dados, infraestrutura e tecnologias utilizadas, 
 
 ### Cenário de negócio:
