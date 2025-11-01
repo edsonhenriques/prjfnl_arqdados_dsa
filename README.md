@@ -15,17 +15,17 @@ Dados coletados em tempo real de diversos sensores ambientes, incluindo temperat
 Informações detalhadas sobre localizações específicas, incluindo mapas de uso do solo, dados de cobertura vegetal e áreas protegidas.
 
 #### 3. Dados socioeconômicos:
-Dados demográficos, econômicos e de saúde pública que influenciam ou são influenciados por fatores ambientes.
+Dados demográficos, econômicos e de saúde pública que influenciam ou são influenciados por fatores ambientais.
 
 #### 4. Dados históricos:
-Registros de dados ambientes e socioeconômicos de até 10 anos atrás, armazenados em sistemas de arquivos e banco de dados.
+Registros de dados ambientais e socioeconômicos de até 10 anos atrás, armazenados em sistemas de arquivos e banco de dados.
 
 
 #### Infraestrutura disponível atualmente:
-Servidores on-premises: servidores locais com capacidade de processamento e armazenamento limitados
-Cloud storage: uso inicial do AWS S3 para armazenamento de dados em grande escala.
-Ferramentas de análise de dados: uso de ferramentas de BI e uma instalação inicial de apache spark para processamentos de dados.
-Bases de dados: Utilização de PostgreSQL para dados transacionais e MongoDB para dados não estruturados.
+- **Servidores on-premises:** servidores locais com capacidade de processamento e armazenamento limitados
+- **Cloud storage:** uso inicial do AWS S3 para armazenamento de dados em grande escala.
+- **Ferramentas de análise de dados:** uso de ferramentas de BI e uma instalação inicial de apache spark para processamentos de dados.
+- **Bases de dados:** Utilização de PostgreSQL para dados transacionais e MongoDB para dados não estruturados.
 
 
 ## Objetivo
