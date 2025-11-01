@@ -4,7 +4,7 @@ Espaço reservado para documentação do projeto final da Pós Gradução da Arq
 
 ## Cenário de negócio:
 
-A empresa EcoData Analytics é uma empresa especializada em análise de dados ambientes, que está enfrentando desafios na integração e análise rápida de dados para fornecer insight sobre tendências de sustentabilidade e impacto ambiental.
+A empresa EcoData Analytics é uma empresa especializada em análise de dados ambientais, que está enfrentando desafios na integração e análise rápida de dados para fornecer insight sobre tendências de sustentabilidade e impacto ambiental.
 A empresa pretende expandir seus serviços para consultoria personalizada, utilizando análises preditivas para recomendar práticas sustentáveis a clientes variados, incluindo governos locais e grandes corporações industriais.
 
 ### Tipos de dados disponíveis:
