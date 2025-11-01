@@ -30,7 +30,7 @@ Registros de dados ambientais e socioeconômicos de até 10 anos atrás, armazen
 
 ## Objetivo
 
-Descrever a arquitetura de dados para escalar o crescimento da empresa e o aumento de volume de dados, abordando estrtégicas para garantir a manutenção, atualização e governança de dados na arquitetura proposta.
+Descreva a arquitetura de dados para escalar o crescimento da empresa e o aumento de volume de dados, abordando estratégias para garantir a manutenção, atualização e governança de dados da arquitetura proposta.
 
 Você deve considerar o cenário descrito pela empresa, os dados e tecnologias disponíveis. Você poode propor alternativas se considerar isso necessário para a solução do problema de negócio.
 
